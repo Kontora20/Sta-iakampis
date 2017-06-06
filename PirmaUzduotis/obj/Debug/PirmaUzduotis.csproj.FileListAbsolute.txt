@@ -1,0 +1,9 @@
+c:\users\arnas\documents\visual studio 2015\Projects\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe.config
+c:\users\arnas\documents\visual studio 2015\Projects\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.csprojResolveAssemblyReference.cache
+c:\users\arnas\documents\visual studio 2015\Projects\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe
+c:\users\arnas\documents\visual studio 2015\Projects\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.pdb
+c:\users\arnas\documents\visual studio 2015\Projects\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.exe
+c:\users\arnas\documents\visual studio 2015\Projects\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.pdb
+C:\Users\Arnas\Desktop\Darbai siuntimui\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe.config
+C:\Users\Arnas\Desktop\Darbai siuntimui\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.exe
+C:\Users\Arnas\Desktop\Darbai siuntimui\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.pdb
